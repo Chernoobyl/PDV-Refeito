@@ -8,3 +8,4 @@ Commit 6: feat: salvar novo produto em memória
 Commit 7: feat: layout do formulário de pedidos
 Commit 8: feat: integração do botão salvar com lógica de produto
 Commit 9: fix: correção na navegação entre telas
+Commit 10: feat: exibir lista de pedidos salvos
