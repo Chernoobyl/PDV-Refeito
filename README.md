@@ -10,3 +10,4 @@ Commit 8: feat: integração do botão salvar com lógica de produto
 Commit 9: fix: correção na navegação entre telas
 Commit 10: feat: exibir lista de pedidos salvos
 Commit 11: feat: controle de quantidade no pedido
+Commit 12: style: ajustes visuais no formulário
