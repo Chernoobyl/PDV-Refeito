@@ -12,3 +12,4 @@ Commit 10: feat: exibir lista de pedidos salvos
 Commit 11: feat: controle de quantidade no pedido
 Commit 12: style: ajustes visuais no formulário
 Commit 13: feat: persistência temporária com SharedPreferences
+Commit 14: fix: correção de bug ao atualizar lista
