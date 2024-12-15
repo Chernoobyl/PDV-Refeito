@@ -13,3 +13,4 @@ Commit 11: feat: controle de quantidade no pedido
 Commit 12: style: ajustes visuais no formulário
 Commit 13: feat: persistência temporária com SharedPreferences
 Commit 14: fix: correção de bug ao atualizar lista
+Commit 15: refactor: separação de lógica em pacotes modelo e view
