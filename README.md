@@ -17,3 +17,4 @@ Commit 15: refactor: separação de lógica em pacotes modelo e view
 Commit 16: docs: criação do README.md com instruções básicas
 Commit 17: feat: ícones de fundo e app
 Commit 18: feat: navegação com intents explícitas
+Commit 19: feat: campos obrigatórios no formulário
