@@ -20,3 +20,4 @@ Commit 18: feat: navegação com intents explícitas
 Commit 19: feat: campos obrigatórios no formulário
 Commit 20: test: simulação de fluxo completo de pedido
 Commit 21: feat: botão para limpar lista de produtos
+Commit 22: fix: tratamento de erro em campo vazio
