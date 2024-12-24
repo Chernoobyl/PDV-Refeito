@@ -22,3 +22,4 @@ Commit 20: test: simulação de fluxo completo de pedido
 Commit 21: feat: botão para limpar lista de produtos
 Commit 22: fix: tratamento de erro em campo vazio
 Commit 23: chore: atualização do google-services.json
+Commit 24: style: ajustes finais no layout XML
