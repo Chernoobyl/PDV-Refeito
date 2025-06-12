@@ -1,40 +1,46 @@
-Este é um aplicativo Android simples de Ponto de Venda (PDV) para controle de produtos e realização de pedidos. Ele permite o cadastro de produtos, criação de pedidos com controle de quantidade e visualização dos pedidos realizados. Ideal para uso em pequenos comércios ou como projeto base para soluções de vendas.
+# 🧾 Aplicativo PDV – Ponto de Venda
 
-Funcionalidades:
+Este é um **aplicativo Android simples de Ponto de Venda (PDV)** desenvolvido para controle de produtos e realização de pedidos. Ideal para **pequenos comércios** ou como **base para soluções de vendas personalizadas**, o app permite:
 
-Cadastro de Produtos
+- Cadastro de produtos
+- Criação de pedidos com controle de quantidade
+- Visualização dos pedidos realizados
 
-Formulário para inserir nome, descrição e preço
+---
 
-Armazenamento temporário com SharedPreferences
+## ✨ Funcionalidades
 
--Criação de Pedidos
+### 📦 Cadastro de Produtos
+- Formulário para inserir **nome**, **descrição** e **preço**
+- Armazenamento temporário usando **SharedPreferences**
 
-Seleção de produtos e controle de quantidade
+### 🛒 Criação de Pedidos
+- Seleção de produtos com **controle de quantidade**
+- Exibição da **lista de pedidos realizados**
+- Validação de **campos obrigatórios** e **tratamento de erros**
 
-Exibição da lista de pedidos realizados
+### ⚙️ Gerenciamento
+- Botão para **limpar a lista de produtos**
+- Navegação fluida entre telas com **Intents explícitas**
 
-Campos obrigatórios e tratamento de erros
+### 💾 Persistência Local
+- Armazenamento **simulado localmente** com SharedPreferences
 
--Gerenciamento
+---
 
-Botão para limpar a lista de produtos
+## 🧰 Tecnologias Utilizadas
 
-Navegação simples entre telas com Intents explícitas
+- **Kotlin**
+- **Android SDK** (API 24+)
+- **SharedPreferences** (persistência local)
+- **XML** para layouts
+- **Intents** para navegação
+- **Material Components** para UI
 
--Persistência Local
+---
 
-Uso de SharedPreferences para simular armazenamento de produtos e pedidos
+## Como Rodar o Projeto
 
- Tecnologias Utilizadas
-Kotlin
-
-Android SDK (API 24+)
-
-SharedPreferences (persistência simples)
-
-XML para layouts
-
-Intents para navegação
-
-Material Components
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/Chernoobyl/PDV-Refeito
