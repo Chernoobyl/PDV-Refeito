@@ -1,26 +1,40 @@
+Este é um aplicativo Android simples de Ponto de Venda (PDV) para controle de produtos e realização de pedidos. Ele permite o cadastro de produtos, criação de pedidos com controle de quantidade e visualização dos pedidos realizados. Ideal para uso em pequenos comércios ou como projeto base para soluções de vendas.
 
-Commit 1: init: estrutura base do projeto Android
-Commit 2: feat: tela principal com listagem de produtos
-Commit 3: feat: tela de formulário para novo produto
-Commit 4: feat: classe modelo Produto.java
-Commit 5: feat: classe modelo Pedidos.java
-Commit 6: feat: salvar novo produto em memória
-Commit 7: feat: layout do formulário de pedidos
-Commit 8: feat: integração do botão salvar com lógica de produto
-Commit 9: fix: correção na navegação entre telas
-Commit 10: feat: exibir lista de pedidos salvos
-Commit 11: feat: controle de quantidade no pedido
-Commit 12: style: ajustes visuais no formulário
-Commit 13: feat: persistência temporária com SharedPreferences
-Commit 14: fix: correção de bug ao atualizar lista
-Commit 15: refactor: separação de lógica em pacotes modelo e view
-Commit 16: docs: criação do README.md com instruções básicas
-Commit 17: feat: ícones de fundo e app
-Commit 18: feat: navegação com intents explícitas
-Commit 19: feat: campos obrigatórios no formulário
-Commit 20: test: simulação de fluxo completo de pedido
-Commit 21: feat: botão para limpar lista de produtos
-Commit 22: fix: tratamento de erro em campo vazio
-Commit 23: chore: atualização do google-services.json
-Commit 24: style: ajustes finais no layout XML
-Commit 25: chore: finalização do projeto para entrega
+Funcionalidades:
+
+Cadastro de Produtos
+
+Formulário para inserir nome, descrição e preço
+
+Armazenamento temporário com SharedPreferences
+
+-Criação de Pedidos
+
+Seleção de produtos e controle de quantidade
+
+Exibição da lista de pedidos realizados
+
+Campos obrigatórios e tratamento de erros
+
+-Gerenciamento
+
+Botão para limpar a lista de produtos
+
+Navegação simples entre telas com Intents explícitas
+
+-Persistência Local
+
+Uso de SharedPreferences para simular armazenamento de produtos e pedidos
+
+ Tecnologias Utilizadas
+Kotlin
+
+Android SDK (API 24+)
+
+SharedPreferences (persistência simples)
+
+XML para layouts
+
+Intents para navegação
+
+Material Components
